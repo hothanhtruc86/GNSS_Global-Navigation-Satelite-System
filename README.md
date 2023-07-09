@@ -16,9 +16,9 @@ https://gssc.esa.int/navipedia/GNSS_Book/ESA_GNSS-Book_TM-23_Vol_I.pdf
 
 ## Definition
 GNSS is the generic term denoting a satelite navigation system, for example: GPS (US), Glonass (Russia), Galileo (Europe) and Beidou (China).
-3 main elements:
-![alt text](https://www.rfwireless-world.com/images/GNSS-architecture.jpg)
 
+![alt text](https://www.rfwireless-world.com/images/GNSS-architecture.jpg)
+3 main elements:
 - Space segment: comprises the satelites
 - Control seegment (Ground Segment): responsible for proper operation of the system.
 - User segment: including GNSS receiver providing positioning, velocity, and precise timing to users.
