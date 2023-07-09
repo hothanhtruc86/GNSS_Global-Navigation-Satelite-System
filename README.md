@@ -27,5 +27,5 @@ GNSS is the generic term denoting a satelite navigation system, for example: GPS
 ## GNSS-Segments
 ### 1.Space-Segment
 Function: Generate and transmit code and carrier phase signals, store and broadcast the navigation message uploaded by the control segment.
-Formation: by satelite constellations with enugh satelites to ensure that users will have at least four satelites in view simultanenously from any point on Earth's surface at any time.
+Formation: by satelite constellations with enough satelites to ensure that users will have at least four satelites in view simultanenously from any point on Earth's surface at any time.
 The basic observable in a GNSS is the time required for a signal to travel from the satellite (transmitter) to the receiver. This travel time, multiplied by the speed of light, provides a measure of the apparent distance (pseudorange) between them.
