@@ -4,7 +4,7 @@ https://gssc.esa.int/navipedia/GNSS_Book/ESA_GNSS-Book_TM-23_Vol_I.pdf
 ## TABLE OF CONTENT
 
 - [Definition](#Definition)
-- [GNSS Segments](#GNSS Segments)
+- [GNSS-Segments](#GNSS-Segments)
   - [Space Segment](#Space Segment)
   - [Control Segment](#Control Segment)
   - [User segment](#User segment)
